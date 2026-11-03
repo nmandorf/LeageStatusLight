@@ -1,0 +1,2 @@
+hubspace-ng==0.0.4
+keyring>=25,<26
